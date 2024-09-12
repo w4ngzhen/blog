@@ -1,8 +1,8 @@
 menus:
   主页: / || fa fa-home
-  关于: /about/ || fa fa-user
-  tags: /tags/ || fa fa-tags
-  友情链接: /links/ || fa fa-link
+#  关于: /about/ || fa fa-user
+#  tags: /tags/ || fa fa-tags
+#  友情链接: /links/ || fa fa-link
 menus-config:
   enable-icon: true
 
