@@ -1,5 +1,5 @@
 ---
-title: 404 Not Found：该页无法显示
+title: 404 Not Found
 permalink: /404.html
 toc: false
 comments: false
